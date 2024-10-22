@@ -1,0 +1,1 @@
+import{Ba as a,Ca as s,Ia as i,Ka as m,U as o}from"./chunk-NDNVQ667.js";var t=class n{static \u0275fac=function(e){return new(e||n)};static \u0275cmp=o({type:n,selectors:[["app-reglamentos-view"]],standalone:!0,features:[m],decls:2,vars:0,template:function(e,r){e&1&&(a(0,"p"),i(1,"reglamentos-view works!"),s())},encapsulation:2})};export{t as default};

@@ -1,0 +1,1 @@
+import{Ba as o,Ca as i,Ia as m,Ka as s,U as t}from"./chunk-NDNVQ667.js";var n=class a{static \u0275fac=function(e){return new(e||a)};static \u0275cmp=t({type:a,selectors:[["app-mudanza-view"]],standalone:!0,features:[s],decls:2,vars:0,template:function(e,u){e&1&&(o(0,"p"),m(1,"mudanza-view works!"),i())},encapsulation:2})};export{n as default};

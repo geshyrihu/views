@@ -1,0 +1,1 @@
+import{Ba as r,Ca as i,Ia as a,Ka as s,U as o}from"./chunk-NDNVQ667.js";var t=class n{static \u0275fac=function(e){return new(e||n)};static \u0275cmp=o({type:n,selectors:[["app-rrhh-view"]],standalone:!0,features:[s],decls:2,vars:0,template:function(e,m){e&1&&(r(0,"p"),a(1,"rrhh-view works!"),i())},encapsulation:2})};export{t as default};

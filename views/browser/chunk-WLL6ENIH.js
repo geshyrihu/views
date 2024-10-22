@@ -1,0 +1,1 @@
+import{Ba as t,Ca as i,Ia as r,Ka as m,U as n}from"./chunk-NDNVQ667.js";var o=class s{static \u0275fac=function(e){return new(e||s)};static \u0275cmp=n({type:s,selectors:[["app-permisos-ingreso-view"]],standalone:!0,features:[m],decls:2,vars:0,template:function(e,p){e&1&&(t(0,"p"),r(1,"permisos-ingreso-view works!"),i())},encapsulation:2})};export{o as default};

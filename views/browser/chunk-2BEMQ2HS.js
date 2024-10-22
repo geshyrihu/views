@@ -1,0 +1,1 @@
+import{Ba as o,Ca as s,Ia as c,Ka as p,U as i}from"./chunk-NDNVQ667.js";var n=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=i({type:t,selectors:[["app-inspecciones-view"]],standalone:!0,features:[p],decls:2,vars:0,template:function(e,m){e&1&&(o(0,"p"),c(1,"inspecciones-view works!"),s())},encapsulation:2})};export{n as default};

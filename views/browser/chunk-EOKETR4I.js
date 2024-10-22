@@ -1,0 +1,1 @@
+import{Ba as s,Ca as i,Ia as m,Ka as a,U as n}from"./chunk-NDNVQ667.js";var t=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=n({type:o,selectors:[["app-documentos-view"]],standalone:!0,features:[a],decls:2,vars:0,template:function(e,p){e&1&&(s(0,"p"),m(1,"documentos-view works!"),i())},encapsulation:2})};export{t as default};

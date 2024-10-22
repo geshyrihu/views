@@ -1,0 +1,1 @@
+import{Ba as o,Ca as s,Ia as a,Ka as c,U as n}from"./chunk-NDNVQ667.js";var t=class i{static \u0275fac=function(e){return new(e||i)};static \u0275cmp=n({type:i,selectors:[["app-tickets-view"]],standalone:!0,features:[c],decls:2,vars:0,template:function(e,m){e&1&&(o(0,"p"),a(1,"tickets-view works!"),s())},encapsulation:2})};export{t as default};

@@ -1,0 +1,1 @@
+import{Ba as o,Ca as i,Ia as r,Ka as l,U as t}from"./chunk-NDNVQ667.js";var n=class a{static \u0275fac=function(e){return new(e||a)};static \u0275cmp=t({type:a,selectors:[["app-calendario-view"]],standalone:!0,features:[l],decls:2,vars:0,template:function(e,c){e&1&&(o(0,"p"),r(1,"calendario-view works!"),i())},encapsulation:2})};export{n as default};

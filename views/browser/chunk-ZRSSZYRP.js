@@ -1,0 +1,1 @@
+import{Ba as o,Ca as a,Ia as s,Ka as r,U as i}from"./chunk-NDNVQ667.js";var n=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=i({type:t,selectors:[["app-inventarios-view"]],standalone:!0,features:[r],decls:2,vars:0,template:function(e,m){e&1&&(o(0,"p"),s(1,"inventarios-view works!"),a())},encapsulation:2})};export{n as default};

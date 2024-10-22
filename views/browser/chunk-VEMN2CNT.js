@@ -1,0 +1,1 @@
+import{Ba as i,Ca as a,Ia as c,Ka as s,U as o}from"./chunk-NDNVQ667.js";var e=class n{static \u0275fac=function(t){return new(t||n)};static \u0275cmp=o({type:n,selectors:[["app-notification"]],standalone:!0,features:[s],decls:2,vars:0,template:function(t,p){t&1&&(i(0,"p"),c(1,"notification works!"),a())},encapsulation:2})};export{e as default};

@@ -1,0 +1,1 @@
+import{Ba as n,Ca as a,Ia as p,Ka as d,U as o}from"./chunk-NDNVQ667.js";var i=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-mi-propiedad-view"]],standalone:!0,features:[d],decls:2,vars:0,template:function(e,m){e&1&&(n(0,"p"),p(1,"mi-propiedad-view works!"),a())},encapsulation:2})};export{i as default};

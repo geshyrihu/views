@@ -1,0 +1,1 @@
+import{Ba as i,Ca as n,Ia as a,Ka as r,U as s}from"./chunk-NDNVQ667.js";var t=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=s({type:o,selectors:[["app-usuarios-view"]],standalone:!0,features:[r],decls:2,vars:0,template:function(e,p){e&1&&(i(0,"p"),a(1,"usuarios-view works!"),n())},encapsulation:2})};export{t as default};

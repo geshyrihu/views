@@ -1,0 +1,1 @@
+import{Ba as n,Ca as s,Ia as i,Ka as l,U as a}from"./chunk-NDNVQ667.js";var t=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=a({type:o,selectors:[["app-catalogos-view"]],standalone:!0,features:[l],decls:2,vars:0,template:function(e,p){e&1&&(n(0,"p"),i(1,"catalogos-view works!"),s())},encapsulation:2})};export{t as default};

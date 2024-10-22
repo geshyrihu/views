@@ -1,0 +1,1 @@
+import{Ba as n,Ca as r,Ia as s,Ka as a,U as i}from"./chunk-NDNVQ667.js";var t=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=i({type:o,selectors:[["app-directorios-view"]],standalone:!0,features:[a],decls:2,vars:0,template:function(e,p){e&1&&(n(0,"p"),s(1,"directorios-view works!"),r())},encapsulation:2})};export{t as default};

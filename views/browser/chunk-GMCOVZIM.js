@@ -1,0 +1,1 @@
+import{Ba as i,Ca as o,Ia as s,Ka as d,U as a}from"./chunk-NDNVQ667.js";var n=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=a({type:t,selectors:[["app-amenidades-view"]],standalone:!0,features:[d],decls:2,vars:0,template:function(e,p){e&1&&(i(0,"p"),s(1,"amenidades-view works!"),o())},encapsulation:2})};export{n as default};

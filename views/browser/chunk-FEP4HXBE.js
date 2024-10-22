@@ -1,0 +1,1 @@
+import{Ba as o,Ca as i,Ia as m,Ka as l,U as a}from"./chunk-NDNVQ667.js";var n=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=a({type:t,selectors:[["app-almacen-view"]],standalone:!0,features:[l],decls:2,vars:0,template:function(e,s){e&1&&(o(0,"p"),m(1,"almacen-view works!"),i())},encapsulation:2})};export{n as default};

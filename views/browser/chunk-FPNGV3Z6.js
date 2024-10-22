@@ -1,0 +1,1 @@
+import{Ba as a,Ca as o,Ia as i,Ka as p,U as n}from"./chunk-NDNVQ667.js";var t=class s{static \u0275fac=function(e){return new(e||s)};static \u0275cmp=n({type:s,selectors:[["app-pases-qr-view"]],standalone:!0,features:[p],decls:2,vars:0,template:function(e,m){e&1&&(a(0,"p"),i(1,"pases-qr-view works!"),o())},encapsulation:2})};export{t as default};

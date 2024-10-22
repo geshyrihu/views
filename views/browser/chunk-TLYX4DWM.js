@@ -1,0 +1,1 @@
+import{Ba as i,Ca as a,Ia as s,Ka as c,U as o}from"./chunk-NDNVQ667.js";var n=class t{static \u0275fac=function(e){return new(e||t)};static \u0275cmp=o({type:t,selectors:[["app-anuncios-view"]],standalone:!0,features:[c],decls:2,vars:0,template:function(e,u){e&1&&(i(0,"p"),s(1,"anuncios-view works!"),a())},encapsulation:2})};export{n as default};

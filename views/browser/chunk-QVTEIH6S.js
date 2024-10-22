@@ -1,0 +1,1 @@
+import{Ba as i,Ca as n,Ia as s,Ka as r,U as o}from"./chunk-NDNVQ667.js";var t=class a{static \u0275fac=function(e){return new(e||a)};static \u0275cmp=o({type:a,selectors:[["app-bitacoras-view"]],standalone:!0,features:[r],decls:2,vars:0,template:function(e,p){e&1&&(i(0,"p"),s(1,"bitacoras-view works!"),n())},encapsulation:2})};export{t as default};
