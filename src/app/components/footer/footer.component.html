@@ -1,0 +1,27 @@
+<!-- Footer -->
+<footer class="bg-light text-center p-3 border-top">
+  <div class="d-flex justify-content-around mt-3 mb-3">
+    <a [routerLink]="['/menu']" routerLinkActive="router-link-active">
+      <i class="fa-light fa-house fa-2xl"></i>
+    </a>
+    <!-- Inicio -->
+
+    <a
+      class="text-decoration-none"
+      [routerLink]="['/directorios']"
+      routerLinkActive="router-link-active"
+    >
+      <i class="fa-duotone fa-solid fa-phone fa-2xl"></i>
+    </a>
+    <!-- Directorio -->
+
+    <a
+      class="text-decoration-none"
+      [routerLink]="['/notification']"
+      routerLinkActive="router-link-active"
+    >
+      <i class="fa-duotone fa-solid fa-bell fa-2xl"></i>
+    </a>
+    <!-- Notificaciones -->
+  </div>
+</footer>
